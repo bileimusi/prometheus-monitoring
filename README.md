@@ -32,8 +32,7 @@ aliyun2 / aliyun3 (被管节点/Managed Nodes)
 
 1. **安全组端口未开放**：Grafana 外网无法访问，需在阿里云控制台开放 9090/3000/9100 端口并限制来源 IP
 
- 2.Node Exporter 安装超时：国内服务器从 GitHub 下载二进制包大概率超时，改用 apt install prometheus-
- node-exporter 解决
+2.Node Exporter 安装超时：国内服务器从 GitHub 下载二进制包大概率超时，改用 apt install prometheus- node-exporter 解决
 
 3. **Prometheus 配置 targets**：初始只配了 localhost，后补充 aliyun2/aliyun3 私网 IP
 
