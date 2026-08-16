@@ -24,8 +24,8 @@ aliyun2 / aliyun3 (被管节点/Managed Nodes)
 
 | 节点 | 内网 IP | 角色 |
 |:---|:---|:---|
-| aliyun1 | 172.25.112.181 | Prometheus + Grafana |
-| aliyun2 | 172.24.47.102 | Node Exporter + Nginx |
+| aliyun1 | 172.24.47.99 | Prometheus + Grafana |
+| aliyun2 | 172.25.112.181 | Node Exporter + Nginx |
 | aliyun3 | 172.24.47.102 | Node Exporter + Nginx |
 
 ## 踩坑记录 / Troubleshooting
