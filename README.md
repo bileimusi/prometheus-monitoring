@@ -30,7 +30,8 @@ aliyun2 / aliyun3 (被管节点/Managed Nodes)
 
 ## 截图 / Screenshots
 
-![Grafana Node Exporter Full 仪表盘](images/grafana-dashboard.png)
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/a12d8ccc-d04f-480c-95e2-ba721b105159" />
+
 
 ## 踩坑记录 / Troubleshooting /ˈtrʌblʃuːtɪŋ/（川-波-修-汀）
 
