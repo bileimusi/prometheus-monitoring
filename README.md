@@ -37,7 +37,8 @@ aliyun2 / aliyun3 (被管节点/Managed Nodes)
 
 ## 截图 / Screenshots
 
-![Grafana 仪表盘](images/grafana-dashboard.png)
+<img width="1882" height="968" alt="image" src="https://github.com/user-attachments/assets/b0f9ccce-8f5c-4fec-ab04-406aa77c4d6f" />
+
 
 ## 访问地址
 
